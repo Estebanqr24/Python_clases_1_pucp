@@ -5,3 +5,8 @@ Pythion Pucp basic
 2-B
 3-c
 4-D
+## Faculty
+1- Economist
+2-Sociology
+3-Psicology
+4-Economist
