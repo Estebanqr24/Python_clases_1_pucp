@@ -10,3 +10,6 @@ Pythion Pucp basic
 2-Sociology
 3-Psicology
 4-Economist
+# Movies
+1-Orugulo y prejuiicio
+2-Oppenheimer
