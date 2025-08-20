@@ -21,3 +21,7 @@ Pythion Pucp basic
 3- Pedro Pascal
 4- Adam Sander
 
+#schools
+1-Santa Rosa
+2-Guadalupe
+3- Jose Pardo
